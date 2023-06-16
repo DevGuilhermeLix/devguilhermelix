@@ -3,10 +3,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_lix/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ozório-2b8616246/)
 
-![Lix GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuilhermeLix&show_icons=true&theme=dracula)
+![Lix GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuilhermeLix&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuilhermeLix&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuilhermelix&layout=pie)](https://github.com/devguilhermelix/github-readme-stats)
 
 ## Tecnologias Que já tenho certas Habilidades:
 
